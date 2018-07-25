@@ -1,10 +1,6 @@
----
-description: >-
-  makeblock 旗下的每款机器人「安装固件」的步骤基本上是通用的，无非是选择对应的主控板/机型和串口（COM口）罢了，此文以 mBot 在
-  mBlock3 里「安装固件」为例来介绍下相关步骤。
----
-
 # 如何「安装固件」？
+
+> makeblock 旗下的每款机器人「安装固件」的步骤基本上是通用的，无非是选择对应的主控板/机型和串口（COM口）罢了，此文以 mBot 在 mBlock3 里「安装固件」为例来介绍下相关步骤。
 
 1、在电脑上打开 mBlock3 软件（如未安装，[点击](http://www.mblock.cc/zh-home/software/mblock/mblock3/)下载安装）
 
