@@ -133,7 +133,5 @@ mBlock 现有两个版本—— mBlock3 和 mBlock5，可根据实际需要下�
 
 ### 12、LaserBot 激光雕刻机
 
-{% file src="../.gitbook/assets/laserbot-shi-yong-shou-ce.pdf" caption="LaserBot 使用说明书" %}
-
-
+[点击](http://bbs.makeblock.com/forum.php?mod=attachment&aid=NTgzNXxjN2VmODU2OXwxNTMyNDgzODM2fDg1Njd8MzMyMQ%3D%3D)下载 LaserBot 使用说明书
 
