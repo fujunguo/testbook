@@ -52,6 +52,10 @@ mBlock 现有两个版本—— mBlock3 和 mBlock5，可根据实际需要下�
 
 3）[珊子姐姐Ranger小课堂](http://pan.baidu.com/s/1hscd0Ks)
 
+4）激光剑扩展包案例程序
+
+* [点击](http://bbs.makeblock.com/forum.php?mod=attachment&aid=NjEzNXw0MzI3ZmYxZXwxNTMyNDgzODM2fDg1Njd8MzMyMQ%3D%3D)下载激光剑案例程序
+
 ### 6、Neuron神经元
 
 1）[神经元智造家套件说明书](http://cdnlab.makeblock.com/Neuron_STD_SC_User%20Manual_%E6%99%BA%E9%80%A0%E5%AE%B6%E5%A5%97%E4%BB%B6_D1.1.1_M402010049_print.pdf)
@@ -60,7 +64,7 @@ mBlock 现有两个版本—— mBlock3 和 mBlock5，可根据实际需要下�
 
 3）Neuron软件节点说明文档
 
- node节点说明-中文版.pdf 1MB
+* [点击](http://bbs.makeblock.com/forum.php?mod=attachment&aid=NTgzNHxhNThmYzViYnwxNTMyNDgzODM2fDg1Njd8MzMyMQ%3D%3D)下载 Neuron 节点说明
 
 4）[神经元教师指导文件](http://education.makeblock.com/zh-hans/resource/jszdwj/)
 
