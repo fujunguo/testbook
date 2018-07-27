@@ -12,11 +12,11 @@
 
 #### 方式二
 
-如果主控板电源开关也打开了、USB 线连接也没问题，而在「**设备管理器**」中还是未能发现我们想要的COM 口，**并且换个 USB 口还是不行的话**，这时候很大可能就是驱动程序的问题了，此时有两个办法可解决此问题：
+如果主控板电源开关也打开了、USB 线连接也没问题，而在「**设备管理器**」中还是未能发现我们想要的 COM 口，**并且换个 USB 口还是不行的话**，这时候很大可能就是驱动程序的问题了，此时有两个办法可解决此问题：
 
 1）点击 mBlock 里的「**安装 Arduino 驱动**」菜单，安装完成后重启 mBlock 程序以及重新插拔下 USB 线即可：
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
-2）[点击](http://bbs.makeblock.com/forum.php?mod=attachment&aid=MzkwMXxiMzQ5ZDQxMnwxNDczMDkxMzYyfDg1Njd8MTEwNA%3D%3D)下载驱动文件（针对 Windows 系统），手动安装好驱动文件，装好后按照步骤1操作即可。Mac OS 可参考[这篇文档](http://www.mblock.cc/zh-home/docs/zh-run-makeblock-ch340-ch341-on-mac-os-sierra/)解决驱动文件问题。
+2）[点击](http://bbs.makeblock.com/forum.php?mod=attachment&aid=MzkwMXxiMzQ5ZDQxMnwxNDczMDkxMzYyfDg1Njd8MTEwNA%3D%3D)下载驱动文件（针对 Windows 系统），手动安装好驱动文件，装好后按照步骤 1 操作即可。Mac OS 可参考[这篇文档](http://www.mblock.cc/zh-home/docs/zh-run-makeblock-ch340-ch341-on-mac-os-sierra/)解决驱动文件问题。
 
