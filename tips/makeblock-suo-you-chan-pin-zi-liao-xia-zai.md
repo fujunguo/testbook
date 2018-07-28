@@ -111,12 +111,9 @@ mBlock 现有两个版本—— mBlock3 和 mBlock5，可根据实际需要下�
 
 *  [Windows版本](http://pan.baidu.com/s/1o7T6P9S)
 
-2）[安装手册以及软件使用说明书](http://pan.baidu.com/s/1pKC9PrH)
+2）[安装手册以及软件使用说明书](http://bbs.makeblock.com/forum.php?mod=attachment&aid=NjIwNHw4MTUzNDVmZnwxNTMyNzQ5NDY2fDg1Njd8MzMyMQ%3D%3D)
 
-3）激光升级包软件使用说明
-
-* [激光升级包 mDraw 使用说明书](http://pan.baidu.com/s/1geVPi3T)
-* [激光升级包 Benbox 使用说明书](http://pan.baidu.com/s/1dFbYQg5)
+3）[激光升级包软件使用说明](http://bbs.makeblock.com/forum.php?mod=attachment&aid=NjIwNXw0OGE4ODAyNHwxNTMyNzQ5NDY2fDg1Njd8MzMyMQ%3D%3D)
 
 4）图片素材下载
 
