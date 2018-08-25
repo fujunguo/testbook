@@ -26,7 +26,7 @@
 
 在mBlock里面（**以下程序基于 mBlock3 编写, mBlock5 同理**）对小车进行编程矫正速度差：在程序上给两个电机设置不同的转速，可以让小车走直线。如在给同样的速度值（100）的时候，观察哪个电机的速度比较慢，然后就加大那个走得慢的电机的值，如电机1\(快\)速度= 100，电机2\(慢\)速度 = 105（如下图所示），然后将其上传至mBot，可以不断调节不同速度值，以达到两个电机同步的效果。
 
-> 上传程序部分可参考[如何让程序「脱机运行」？](tips/ru-he-rang-cheng-xu-tuo-ji-yun-hang.md)
+> 上传程序部分可参考[如何让程序「脱机运行」？](../tips/ru-he-rang-cheng-xu-tuo-ji-yun-hang.md)
 
-![](.gitbook/assets/mbot-dian-ji-wen-ti.png)
+![](../.gitbook/assets/mbot-dian-ji-wen-ti.png)
 

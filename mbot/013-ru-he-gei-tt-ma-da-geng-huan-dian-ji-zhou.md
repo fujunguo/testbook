@@ -2,9 +2,9 @@
 
 在使用 mBot 的过程中，难免会遇到一些意外情况，比如有时候受到严重外力，小车上 **TT 马达的电机轴**出现断裂现象（**下图红框部分**），这将导致小车的轮子后续无法正常运动。
 
-![](.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 所幸的是 makeblock 考虑到了这种情况，所以出厂时，在产品包装里为大家准备了电机轴的备件包（**如下图**），以便大家遇到损坏可自行更换，具体更换教程可**参考备件包里的小卡片操作**，也可[点击](http://v.youku.com/v_show/id_XMTI0ODc5NTk1Mg==.html)查看视频操作教程。
 
-![](.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 

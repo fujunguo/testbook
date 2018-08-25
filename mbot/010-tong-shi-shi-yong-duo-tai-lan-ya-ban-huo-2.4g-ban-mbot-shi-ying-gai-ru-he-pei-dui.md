@@ -23,7 +23,7 @@
 * 将下图左的白色 USB 端子插上电脑的 USB 口，然后将 mBot 靠近已插上电脑的白色 USB 端子，此时 2.4G 模块上的 LED 灯由快速闪烁状态变为常亮状态，即表示二者配对完成。
 * 对于剩余的 2.4G 版 mBot 也可采取上述方式一一配对完成。
 
-![](.gitbook/assets/initpintu-fu-ben%20%281%29.jpg)
+![](../.gitbook/assets/initpintu-fu-ben%20%281%29.jpg)
 
 > 更多 2.4G 模块的用法可参考[如何使用 2.4G 版 mBot？](0022.4g-ban-ben-de-mbot-ru-he-shi-yong.md#shi-yong-fang-fa)
 

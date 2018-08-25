@@ -2,7 +2,7 @@
 
 跟前面提到的 2.4G 无线手柄一样，蓝牙手柄通过电脑端的 **mBlock 软件**编程后，同样能实现对机器人的无线控制，以此来替代手机 App 和红外遥控器等控制方式。它的外观如下图：
 
-![&#x84DD;&#x7259;&#x624B;&#x67C4;](.gitbook/assets/lan-ya-shou-bing.jpg)
+![&#x84DD;&#x7259;&#x624B;&#x67C4;](../.gitbook/assets/lan-ya-shou-bing.jpg)
 
 目前该蓝牙手柄支持 mBot、Ranger、airblock 三种机型。
 
@@ -14,11 +14,11 @@
 
 下图是参考使用手册编写好的 mBot 控制程序，可参考作相应的修改：
 
-![&#x84DD;&#x7259;&#x624B;&#x67C4;&#x63A7;&#x5236; mBot](.gitbook/assets/lan-ya-shou-bing-kong-zhi-mbot.jpg)
+![&#x84DD;&#x7259;&#x624B;&#x67C4;&#x63A7;&#x5236; mBot](../.gitbook/assets/lan-ya-shou-bing-kong-zhi-mbot.jpg)
 
 以上程序编写完成后，通过 USB 线将 mBot 的主板连接至电脑，然后上传该程序至主板，待「**上传完成**」字样出现后，重启 mBot 并与蓝牙手柄配对成功，即可实现手柄控制。
 
-> 上传程序的步骤可[参考如何让程序「脱机运行」？](tips/ru-he-rang-cheng-xu-tuo-ji-yun-hang.md)
+> 上传程序的步骤可[参考如何让程序「脱机运行」？](../tips/ru-he-rang-cheng-xu-tuo-ji-yun-hang.md)
 
 #### 2、控制 airblock
 

@@ -18,21 +18,21 @@ PC 端的 mBlock 与 mBot 之间的通讯方式有两种，**有线通讯（USB�
 
 2.4G 模块套装如下图所示，白色的 USB 端子插在电脑端，黑色的模块插在 mBot 的主板上面。
 
-![](.gitbook/assets/2.4g-mo-kuai.png)
+![](../.gitbook/assets/2.4g-mo-kuai.png)
 
 需要说明的是，2.4G 方式只能实现 mBot 与 mBlock 之间的「**在线编程**」功能，并不能上传自定义程序到主板上，让其脱机运行——也就是我们常说的**「离线编程」**。
 
-> 「在线编程」和「离线编程」的区别可参考[二者的区别](tips/shen-me-shi-zai-xian-bian-cheng-he-li-xian-bian-cheng.md)。.
+> 「在线编程」和「离线编程」的区别可参考[二者的区别](../tips/shen-me-shi-zai-xian-bian-cheng-he-li-xian-bian-cheng.md)。.
 
 另外，在使用 2.4G 方式时，必须先用 USB 线将mBot连接至电脑，进行**「安装固件」**这一步骤，待这一步骤完成后再拔掉 USB 线，进行 2.4G 无线串口方式连接，具体使用方法可参考[2.4G模块使用教程](http://v.youku.com/v_show/id_XOTQ1OTc3MDUy.html?beta&from=y1.7-2)。
 
-> 「安装固件」可参考[如何「安装固件」？](tips/ru-he-an-zhuang-gu-jian.md)
+> 「安装固件」可参考[如何「安装固件」？](../tips/ru-he-an-zhuang-gu-jian.md)
 
 #### 2、蓝牙方式
 
 使用蓝牙方式的话，首先需要购买 makeblock 官方出品的蓝牙适配器（如下图所示），该适配器具有传输效率高、信号更稳定等特点，**并且能同时实现「在线编程」和「离线编程」两种功能（ 2.4G 方式不具备「离线编程」功能）**。
 
-![](.gitbook/assets/lan-ya-shi-pei-qi.jpg)
+![](../.gitbook/assets/lan-ya-shi-pei-qi.jpg)
 
 **使用方法：**
 
@@ -40,7 +40,7 @@ PC 端的 mBlock 与 mBot 之间的通讯方式有两种，**有线通讯（USB�
 
 打开 mBot 主板上的开关，按下蓝牙适配器上的按钮（如下图所示），适配器上的指示灯**闪烁频率加快**，进入配对状态。
 
-![](.gitbook/assets/lan-ya-shi-pei-qi-fu-ben.jpg)
+![](../.gitbook/assets/lan-ya-shi-pei-qi-fu-ben.jpg)
 
 将 mBot 靠近蓝牙适配器，二者将进行自动配对。此时适配器上的指示灯由快速闪烁变成常亮状态，即代表蓝牙配对成功。
 
@@ -48,11 +48,11 @@ PC 端的 mBlock 与 mBot 之间的通讯方式有两种，**有线通讯（USB�
 
 **mBlock5** 选择蓝牙适配器当前使用的串口，开始连接设备。
 
-![](.gitbook/assets/mblock5.png)
+![](../.gitbook/assets/mblock5.png)
 
  **mBlock3** 选择蓝牙适配器当前使用的串口，开始连接设备。
 
-![](.gitbook/assets/mblock3.png)
+![](../.gitbook/assets/mblock3.png)
 
-如果蓝牙适配器无法被电脑识别出串口，可参考﻿﻿[如何查看主板的「COM口」？](tips/ru-he-cha-kan-zhu-ban-de-com-kou.md)﻿﻿ 安装驱动文件解决。
+如果蓝牙适配器无法被电脑识别出串口，可参考﻿﻿[如何查看主板的「COM口」？](../tips/ru-he-cha-kan-zhu-ban-de-com-kou.md)﻿﻿ 安装驱动文件解决。
 
