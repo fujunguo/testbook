@@ -27,6 +27,7 @@
   * [001\_机器人为何无法通过蓝牙连接上 App？](ultimate-2.0/001-ji-qi-ren-wei-he-wu-fa-tong-guo-lan-ya-lian-jie-shang-app.md)
   * [002\_通过 App 控制机器臂时，实际运动方向不一致？](ultimate-2.0/002-tong-guo-app-kong-zhi-ji-qi-bi-shi-tai-qi-yu-luo-xia-fang-xiang-you-wu.md)
   * [003\_平衡车形态为何无法正常工作？](ultimate-2.0/003-ping-heng-che-xing-tai-wei-he-wu-fa-zheng-chang-gong-zuo.md)
+  * [004\_为什么机器人上电后就到处乱跑？](ultimate-2.0/004-wei-shen-me-ji-qi-ren-shang-dian-hou-jiu-dao-chu-luan-pao.md)
 * [XY 绘图仪](xy-hui-tu-yi/README.md)
   * [001\_为何电机不运动或者运动不规律？](xy-hui-tu-yi/untitled.md)
   * [002\_为何画出来的图像是反的或歪的？](xy-hui-tu-yi/002-wei-he-hua-chu-lai-de-tu-xiang-shi-fan-de-huo-wai-de.md)
