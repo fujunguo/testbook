@@ -2,17 +2,17 @@
 
 > makeblock 旗下的每款机器人「安装固件」的步骤基本上是通用的，无非是选择对应的主控板/机型和串口（COM口）罢了，此文以 mBot 在 mBlock3 里「安装固件」为例来介绍下相关步骤。
 
-1、在电脑上打开 mBlock3 软件（如未安装，[点击](http://www.mblock.cc/zh-home/software/mblock/mblock3/)下载安装）
+1、[点击](http://www.mblock.cc/zh-home/software/mblock/mblock3/)下载安装最新版本的 mBlock3 软件。
 
-2、接上 USB 数据线至电脑，并打开主控板电源开关：
+2、插上官方的 USB 数据线，将机器人连接至电脑，并打开主控板电源开关：
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
 
 
-3、在「**控制板**」菜单中选择「**mBot**」，然后在「**串口**」菜单中选择对应串口（我的是COM3，每台电脑识别出的串口号可能会不一样）。
+3、在「**控制板**」菜单中选择「**mBot**」，然后在「**串口**」菜单中选择对应串口（ 我的机器人是 mBot，串口是 COM3，根据自己的实际情况进行选择）。
 
-> 具体可参考﻿﻿[如何查看主板的「COM口」？﻿﻿](ru-he-cha-kan-zhu-ban-de-com-kou.md)
+> 串口选择部分可参考﻿﻿[如何查看主板的「COM口」？﻿﻿](ru-he-cha-kan-zhu-ban-de-com-kou.md)
 
 ![](../.gitbook/assets/image%20%282%29.png)
 

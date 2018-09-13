@@ -38,3 +38,5 @@
 
 ![](../.gitbook/assets/xiong-mao-shuo-xun-xian.png)
 
+注：确保编写的巡线语句与你巡线模块实际接线一致。
+
