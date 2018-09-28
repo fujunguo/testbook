@@ -23,7 +23,7 @@
   * [004\_机器人为何时走时停，并发出「滴滴滴」的声音？](ranger/004-ji-qi-ren-wei-he-wu-fa-zheng-chang-hang-zou-bing-fa-chu-di-di-di-de-sheng-yin.md)
   * [005\_操控机器人时，前进为何变成了后退？](ranger/005-cao-kong-ji-qi-ren-shi-wei-he-qian-jin-bian-cheng-le-hou-tui.md)
   * [006\_神经鸟模式下，为何无法正常保持平衡？](ranger/006-shen-jing-niao-mo-shi-xia-wei-he-wu-fa-zheng-chang-bao-chi-ping-heng.md)
-  * [007\_使用 App 控制小车时，履带为何会脱落？](ranger/007-shi-yong-app-kong-zhi-xiao-che-shi-lv-dai-wei-he-hui-tuo-luo.md)
+  * [007\_使用 App 控制小车时，履带为何会脱落或卡得过紧？](ranger/007-shi-yong-app-kong-zhi-xiao-che-shi-lv-dai-wei-he-hui-tuo-luo.md)
   * [008\_为什么机器人一上电就到处乱跑？](ranger/008-wei-shen-me-ji-qi-ren-yi-shang-dian-jiu-dao-chu-luan-pao.md)
 * [Ultimate 2.0](ultimate-2.0/README.md)
   * [001\_机器人为何无法通过蓝牙连接上 App？](ultimate-2.0/001-ji-qi-ren-wei-he-wu-fa-tong-guo-lan-ya-lian-jie-shang-app.md)
