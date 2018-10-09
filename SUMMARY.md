@@ -38,6 +38,7 @@
   * [005\_为什么激光雕刻出来的作品有断点？](xy-hui-tu-yi/005-wei-shen-me-ji-guang-diao-ke-chu-lai-de-zuo-pin-you-duan-dian.md)
   * [006\_为什么抬笔落笔不正常？](xy-hui-tu-yi/006-wei-shen-me-tai-bi-luo-bi-bu-zheng-chang.md)
   * [007\_为什么画出的图形跟导入的差异很大？](xy-hui-tu-yi/007-wei-shen-me-hua-chu-de-tu-xing-gen-dao-ru-de-cha-yi-hen-da.md)
+  * [008\_在 mDraw 和 Benbox 之间切换时，需要做哪些调整？](xy-hui-tu-yi/008-zai-mdraw-he-benbox-zhi-jian-qie-huan-shi-xu-yao-zuo-na-xie-tiao-zheng.md)
 * [mGiraffe 3D 打印机](mgiraffe-3d-da-yin-ji/README.md)
   * [001\_如何对打印平台进行精确调平？](mgiraffe-3d-da-yin-ji/001-ru-he-dui-da-yin-ping-tai-jin-hang-jing-que-tiao-ping.md)
   * [002\_为什么"AutoHome"\(复位\)功能不正常？](mgiraffe-3d-da-yin-ji/002-wei-shen-me-autohome-fu-wei-gong-neng-bu-zheng-chang.md)
