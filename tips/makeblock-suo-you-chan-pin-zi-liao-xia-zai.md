@@ -18,7 +18,7 @@ mBlock 现有两个版本—— mBlock3 和 mBlock5，可根据实际需要下�
 
 ### 3、程小奔
 
-1）[程小奔入门教程（视频）](http://bbs.makeblock.com/thread-3369-1-1.html)
+1）[程小奔入门教程（视频）](https://www.bilibili.com/video/av24943633/?p=1)
 
 2）[程小奔+mBlock5编程指导](http://docs-for-mk.readthedocs.io/zh/latest/)
 
@@ -41,6 +41,10 @@ mBlock 现有两个版本—— mBlock3 和 mBlock5，可根据实际需要下�
 4）[24个官方示例（基于mBlock3）](http://education.makeblock.com/zh-hans/resource/mblock-3-examples/)
 
 5）[2.4G无线手柄使用说明【mBlock3】](http://download.makeblock.com/mblock/docs/wuxian_shoubing_shuoming_zh.pdf)
+
+6）[mBot 出厂程序](https://pan.baidu.com/s/1hsDYeIo)
+
+7）[mBot 扩展包资料下载](http://bbs.makeblock.com/thread-1150-1-1.html)
 
 ### 5、Ranger游侠三合一
 
@@ -133,4 +137,10 @@ mBlock 现有两个版本—— mBlock3 和 mBlock5，可根据实际需要下�
 ### 12、LaserBot 激光雕刻机
 
 [点击](http://bbs.makeblock.com/forum.php?mod=attachment&aid=NTgzNXxjN2VmODU2OXwxNTMyNDgzODM2fDg1Njd8MzMyMQ%3D%3D)下载 LaserBot 使用说明书
+
+13、智造万物系列
+
+3D 迷宫、新孔雀、毛毛虫、瓦力、音乐套件、新麦轮套件、抓娃娃机等智造万物案例。
+
+[点击](http://bbs.makeblock.com/thread-1303-1-1.html)下载说明书资料。
 
