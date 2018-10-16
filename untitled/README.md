@@ -1,2 +1,2 @@
-# Starter初级套件
+# Starter
 
