@@ -47,7 +47,7 @@
   * [005\_为什么打印过程中停止出料了？](mgiraffe-3d-da-yin-ji/005-wei-shen-me-da-yin-guo-cheng-zhong-ting-zhi-chu-liao-le.md)
   * [006\_为什么挤出机温度一直上不去？](mgiraffe-3d-da-yin-ji/006-wei-shen-me-ji-chu-ji-wen-du-yi-zhi-shang-bu-qu.md)
   * [007\_如何提高打印质量？](mgiraffe-3d-da-yin-ji/007-ru-he-ti-gao-da-yin-zhi-liang.md)
-* [Starter](untitled/README.md)
+* [Starter初级套件](untitled/README.md)
   * [001\_避障模式为何工作不正常？](untitled/001-bi-zhang-mo-shi-wei-he-gong-zuo-bu-zheng-chang.md)
   * [002\_蓝牙版和红外版的区别是什么？](untitled/002-lan-ya-ban-he-hong-wai-ban-de-qu-bie-shi-shen-me.md)
   * [003\_操控机器人时，运动方向为何不对？](untitled/003-cao-kong-ji-qi-ren-shi-yun-dong-fang-xiang-wei-he-bu-dui.md)
