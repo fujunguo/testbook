@@ -12,7 +12,7 @@
 
 1、恢复出厂程序
 
-确保小车上的程序为出厂程序，以防万一，可参考[如何「恢复出厂程序」？](../tips/ru-he-hui-fu-chu-chang-cheng-xu.md)在 PC 端 mBlock 中恢复出厂程序（主控板选择记得选择「Orion」）。
+确保小车上的程序为出厂程序，以防万一，可参考[如何「恢复出厂程序」？](../tips/ru-he-hui-fu-chu-chang-cheng-xu.md)在 PC 端 mBlock 中恢复出厂程序（「主控板」菜单选择「Orion」）。
 
 2、检查模块硬件问题
 
