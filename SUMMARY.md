@@ -51,7 +51,7 @@
   * [001\_避障模式为何工作不正常？](untitled/001-bi-zhang-mo-shi-wei-he-gong-zuo-bu-zheng-chang.md)
   * [002\_蓝牙版和红外版的区别是什么？](untitled/002-lan-ya-ban-he-hong-wai-ban-de-qu-bie-shi-shen-me.md)
   * [003\_操控机器人时，运动方向为何不对？](untitled/003-cao-kong-ji-qi-ren-shi-yun-dong-fang-xiang-wei-he-bu-dui.md)
-  * [004\_为何红外遥控器控制机器人时，机器人毫无反应？](untitled/004-wei-he-hong-wai-yao-kong-qi-kong-zhi-ji-qi-ren-shi-ji-qi-ren-hao-wu-fan-ying.md)
+  * [004\_为何遥控机器人时，机器人毫无反应？](untitled/004-wei-he-hong-wai-yao-kong-qi-kong-zhi-ji-qi-ren-shi-ji-qi-ren-hao-wu-fan-ying.md)
   * [005\_为何控制小车移动时，主控板不断重启（指示灯快闪）？](untitled/005-wei-he-kong-zhi-xiao-che-yi-dong-shi-zhu-kong-ban-bu-duan-zhong-qi-zhi-shi-deng-kuai-shan.md)
   * [006\_蓝牙版 Starter 连接 App 时，为何出现「固件无法识别」提示？](untitled/005-lan-ya-ban-starter-lian-jie-app-shi-wei-he-chu-xian-gu-jian-wu-fa-shi-bie-ti-shi.md)
   * [007\_为何主控板在电脑端无法上传程序？](untitled/006-ru-he-gei-zhu-ban-hui-fu-bootloader.md)
