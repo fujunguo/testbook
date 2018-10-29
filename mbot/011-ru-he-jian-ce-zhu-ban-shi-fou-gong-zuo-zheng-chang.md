@@ -42,6 +42,10 @@ description: >-
 
 5、用 USB 线连接主板至电脑，选择对应的端口
 
+若已经在 mBlock 里选中了主板的串口，请先取消串口勾选，否则在 arduino IDE 上传程序时会出错：
+
+![](../.gitbook/assets/zhu-kong-chuan-kou-xuan-ze-1.png)
+
 > 端口选择可参考[如何查看主板的「COM口」？](../tips/ru-he-cha-kan-zhu-ban-de-com-kou.md)
 
 ![](../.gitbook/assets/image%20%2829%29.png)
