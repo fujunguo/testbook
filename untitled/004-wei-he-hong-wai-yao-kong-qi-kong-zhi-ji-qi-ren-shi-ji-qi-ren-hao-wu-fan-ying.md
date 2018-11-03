@@ -27,7 +27,7 @@
 ![](../.gitbook/assets/starter-hong-wai-mo-kuai-fu-ben.jpg)
 
 * 当按下按键后，有蓝色指示灯亮起。表明遥控器功能完好。此时可检查红外接收模块的接线情况（看下是否正确地接在了主板的 6 号端口），并确保小车处于出厂程序模式下（「恢复出厂程序」的方法见文章开头处），同时检查第 1 条中的电机线和电池问题。
-* 若遥控器按键按下后，蓝色指示灯未有亮起，可参考[006\_mBot 的红外遥控器为何不工作？](../mbot/006mbot-de-hong-wai-yao-kong-qi-wei-he-bu-gong-zuo.md)前 3 条检查红外遥控器的问题。
+* 若遥控器按键按下后，蓝色指示灯未有亮起，可参考[006\_mBot 的红外遥控器为何不工作？](../mbot/006mbot-de-hong-wai-yao-kong-qi-wei-he-bu-gong-zuo.md)中前 3 条检查红外遥控器的问题。
 
 
 

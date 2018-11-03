@@ -1,4 +1,4 @@
-# 007\_为何主控板在电脑端无法上传程序？
+# 007\_如何给 Orion 主板恢复 BootLoader？
 
 给主板恢复 BootLoader
 

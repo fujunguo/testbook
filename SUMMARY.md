@@ -54,7 +54,7 @@
   * [004\_为何遥控机器人时，机器人毫无反应？](untitled/004-wei-he-hong-wai-yao-kong-qi-kong-zhi-ji-qi-ren-shi-ji-qi-ren-hao-wu-fan-ying.md)
   * [005\_为何控制小车移动时，主控板不断重启（指示灯快闪）？](untitled/005-wei-he-kong-zhi-xiao-che-yi-dong-shi-zhu-kong-ban-bu-duan-zhong-qi-zhi-shi-deng-kuai-shan.md)
   * [006\_蓝牙版 Starter 连接 App 时，为何出现「固件无法识别」提示？](untitled/005-lan-ya-ban-starter-lian-jie-app-shi-wei-he-chu-xian-gu-jian-wu-fa-shi-bie-ti-shi.md)
-  * [007\_为何主控板在电脑端无法上传程序？](untitled/006-ru-he-gei-zhu-ban-hui-fu-bootloader.md)
+  * [007\_如何给 Orion 主板恢复 BootLoader？](untitled/006-ru-he-gei-zhu-ban-hui-fu-bootloader.md)
 * [Tips](tips/README.md)
   * [如何「恢复出厂程序」？](tips/ru-he-hui-fu-chu-chang-cheng-xu.md)
   * [如何「安装固件」？](tips/ru-he-an-zhuang-gu-jian.md)
