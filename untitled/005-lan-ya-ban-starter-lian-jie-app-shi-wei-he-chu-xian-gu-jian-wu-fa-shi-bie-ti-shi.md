@@ -18,7 +18,7 @@
 
 3、升级最新版的 mBlock3 桌面端和 makeblock App
 
-桌面端可[点击此处](www.mblock.cc)下载最新版本，安装好软件后，参考[如何「恢复出厂程序」？](../tips/ru-he-hui-fu-chu-chang-cheng-xu.md)给 Starter 升级到最新的出厂固件。
+桌面端可[点击此处](http://www.mblock.cc/zh-home/software-2/mblock/mblock3/)下载最新版本，安装好软件后，参考[如何「恢复出厂程序」？](../tips/ru-he-hui-fu-chu-chang-cheng-xu.md)给 Starter 升级到最新的出厂固件。
 
 最新版 App 可从腾讯应用宝（安卓手机用户）或 App Store（苹果手机用户）获取。
 
