@@ -12,7 +12,9 @@
 
 #### 解决方法：
 
-首先，打开遥控手柄开关，然后确保 USB Host 模块接在 Orion 主控的接口 3 上，并且主板上蜂鸣器的开关置于「off」处，如下图所示。
+首先，参考[001\_如何给麦轮上传固件？](001-ru-he-gei-mai-lun-shang-chuan-gu-jian.md)给 Orion 主板烧录正确的程序。
+
+然后，打开遥控手柄开关，然后确保 USB Host 模块接在 Orion 主控的接口 3 上，并且主板上蜂鸣器的开关置于「off」处，如下图所示。
 
 ![](../.gitbook/assets/mai-lun-che-guan-bi-feng-ming-qi.png)
 
