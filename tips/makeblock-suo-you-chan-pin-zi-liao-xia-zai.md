@@ -138,7 +138,7 @@ mBlock 现有两个版本—— mBlock3 和 mBlock5，可根据实际需要下�
 
 [点击](http://bbs.makeblock.com/forum.php?mod=attachment&aid=NTgzNXxjN2VmODU2OXwxNTMyNDgzODM2fDg1Njd8MzMyMQ%3D%3D)下载 LaserBot 使用说明书
 
-13、智造万物系列
+### 13、智造万物系列
 
 3D 迷宫、新孔雀、毛毛虫、瓦力、音乐套件、新麦轮套件、抓娃娃机等智造万物案例。
 
