@@ -1,6 +1,6 @@
 # 004\_如何给麦轮的驱动板更改 I2C 地址？
 
-> 为了使麦轮车有更高的工作精准度，通过更改其中一个驱动的 I2C 地址，并升级脉轮[最新](https://github.com/Makeblock-official/Mecanum-Wheel-Robot-Kit)的固件（下图红框中）即可实现。
+> 为了使麦轮车有更高的工作精准度，通过更改其中一个驱动的 I2C 地址，并升级麦轮[最新](https://github.com/Makeblock-official/Mecanum-Wheel-Robot-Kit)的固件（下图红框中）即可实现。
 
 ![](../.gitbook/assets/mai-lun-che-xin-gu-jian.png)
 
