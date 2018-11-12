@@ -58,7 +58,7 @@
 * [麦克纳姆轮底盘套件](mai-ke-na-mu-lun-di-pan-tao-jian/README.md)
   * [001\_如何给麦轮上传固件？](mai-ke-na-mu-lun-di-pan-tao-jian/001-ru-he-gei-mai-lun-shang-chuan-gu-jian.md)
   * [002\_为何手柄无法与 USB Host 模块成功配对？](mai-ke-na-mu-lun-di-pan-tao-jian/002-wei-he-shou-bing-wu-fa-yu-usb-host-mo-kuai-cheng-gong-pei-dui.md)
-  * [003\_为何手柄无法正常遥控麦伦车？](mai-ke-na-mu-lun-di-pan-tao-jian/003-mai-lun-neng-cheng-gong-pei-dui-wei-he-wu-fa-dui-qi-jin-hang-cao-kong.md)
+  * [003\_为何手柄无法正常遥控麦轮车？](mai-ke-na-mu-lun-di-pan-tao-jian/003-mai-lun-neng-cheng-gong-pei-dui-wei-he-wu-fa-dui-qi-jin-hang-cao-kong.md)
   * [004\_如何给麦轮的驱动板更改 I2C 地址？](mai-ke-na-mu-lun-di-pan-tao-jian/004-ru-he-gei-mai-lun-de-qu-dong-ban-geng-gai-i2c-di-zhi.md)
 * [Tips](tips/README.md)
   * [如何「恢复出厂程序」？](tips/ru-he-hui-fu-chu-chang-cheng-xu.md)
